@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devika Ravindran
 - 👀 I’m interested in coding,web development,software development,Full Stack development
 - 🌱 I’m currently learning Bachelor degree in Computer Science and Engineering...
-- 💞️ I’m looking to work on real world projects
+- 💞️ I’m looking forward to work on real world projects in IT companies
 - 📫 How to reach me mailto: devikaravindran57@gmail.com
 
 <!---
